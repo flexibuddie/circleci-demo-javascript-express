@@ -192,7 +192,7 @@ It contains a blueprints array. Each object in it is the config for a generator.
   "files": [
     {
       "blueprint-path": "config/blueprints/dumb-component.ejs",
-      "target-path": "client/components/<%= helpers.capitalize(name) %>.js"
+      "target-path": "client/components/<%= helpers.capitalize(name) %>.js"clo
     }
   ]
 }
